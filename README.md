@@ -1,16 +1,14 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**wtmaguina/wtmaguina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WTMAGUINA
 
-Here are some ideas to get you started:
+**W O R T H  T R I G G E R**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Independent mind. Private work.*
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+**EST. UNKNOWN · PRIVATE RECORDS**
+
+</div>
+
