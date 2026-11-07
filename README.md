@@ -47,9 +47,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wtmaguina&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" width="100%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wtmaguina&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtmaguina&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=AAAAAA" width="100%" alt="Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtmaguina&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=AAAAAA" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=wtmaguina&hide_border=true&background=0B0B0B&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="Activity streak"/>
 
