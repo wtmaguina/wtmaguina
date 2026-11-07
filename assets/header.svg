@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#242424"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#555"/>
+      <stop offset="50%" stop-color="#eee"/>
+      <stop offset="100%" stop-color="#444"/>
+    </linearGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M35 0H0V35" fill="none" stroke="#fff" opacity=".045"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <path d="M0 35H1200 M0 265H1200" stroke="#fff" opacity=".12"/>
+  <path d="M45 0V300 M1155 0V300" stroke="#fff" opacity=".12"/>
+
+  <circle cx="1040" cy="130" r="100" fill="none" stroke="#fff" opacity=".04"/>
+  <circle cx="1040" cy="130" r="75" fill="none" stroke="#fff" opacity=".07"/>
+
+  <text x="65" y="72" fill="#aaa" font-family="monospace" font-size="13" letter-spacing="5">
+    PRIVATE RECORDS / EST. UNKNOWN
+  </text>
+
+  <text x="60" y="177" fill="#fff" font-family="Georgia, serif" font-size="77" letter-spacing="5">
+    WTMAGUINA
+  </text>
+
+  <rect x="65" y="202" width="400" height="2" fill="url(#line)"/>
+
+  <text x="67" y="237" fill="#bbb" font-family="monospace" font-size="17" letter-spacing="8">
+    WORTH TRIGGER
+  </text>
+
+  <text x="1135" y="245" fill="#888" text-anchor="end"
+        font-family="monospace" font-size="11" letter-spacing="2">
+    WT / 001
+  </text>
+
+  <text x="1135" y="270" fill="#666" text-anchor="end"
+        font-family="monospace" font-size="9" letter-spacing="2">
+    DIGITAL ARCHIVE
+  </text>
+</svg>
